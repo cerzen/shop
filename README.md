@@ -1,6 +1,6 @@
-# imoocmall
+# shop
 
-> Imooc Mall 
+> shop 
 
 ## Build Setup
 
