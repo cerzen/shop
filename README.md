@@ -1,7 +1,11 @@
 # shop
 
 > shop 
-
+这是一款基于vue2.0+node.js+mongodb的电子商城。
+还未完善，目前只有简单的登录和商品列表以及购物车和订单功能 。
+前后端都在这个库里面
+服务器端在server文件夹里面
+服务端入口为 
 ## Build Setup
 
 ``` bash
